@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Hitclub - Cổng Game Bài Trực Tuyến Hàng Đầu Việt Nam Với Trải Nghiệm Chơi Đỉnh Cao
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Storm-eindhoven com <https://storm-eindhoven.com/>`_ dưới sự cho phép của tập đoàn Hitclub, là cổng game trực tuyến hàng đầu tại Việt Nam với giao diện hiện đại và danh mục trò chơi đa dạng, bao gồm game bài truyền thống, slot game, và thể thao ảo. Tên miền Storm-eindhoven.com là địa chỉ chính thức để cập nhật link vào nhà cái Hitclub tại thị trường Việt Nam. Sau khi ra mắt phiên bản mobile năm 2018, Storm-eindhoven.com đã thu hút nhiều người dùng và đang mở rộng thị trường, với mục tiêu trở thành nền tảng giải trí hàng đầu tại Đông Nam Á và cung cấp trải nghiệm giải trí phong phú, công bằng và bảo mật cùng các chương trình khuyến mãi hấp dẫn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 25 Hoàng Trung Thông, Hưng Đông, Thành phố Vinh, Nghệ An 46659, Việt Nam. 
 
-   This project is under active development.
+Phone: 0776195176. 
 
-Contents
---------
+Email: info@stormeindhoven.com. 
 
-.. toctree::
+Website: https://storm-eindhoven.com/ 
 
-   usage
-   api
+#hitclub #nhacaihitclub #trangchuhitclub #trangchuhitclub #linkhitclub
